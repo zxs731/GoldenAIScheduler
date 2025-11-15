@@ -1,0 +1,8 @@
+deepagents
+langchain[openai]
+akshare
+python-dotenv
+fastapi 
+uvicorn
+streamlit
+apscheduler
